@@ -1,1 +1,1 @@
-For this project I used a 3-W School template to make a protfolio as an exmaple, showing the users and website developers how to use vary files in order to make a responsive website. The languages I used are HTML, CSS, Java Script.
+For this project I used a 3-W School template to make a protfolio as an exmaple, showing the users and website developers how to use vary files in order to make a responsive website. The languages I used are HTML, CSS, and Java Script.
